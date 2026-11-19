@@ -27,7 +27,6 @@ function App() {
   const [prompt,setPrompt]=useState("");
   const [mobileMenu,setMobileMenu]=useState(false);
   const [notice,setNotice]=useState("");
-  const [expanded,setExpanded]=useState(true);
   const [showTerminal,setShowTerminal]=useState(false);
   const [showSearch,setShowSearch]=useState(false);
   const [query,setQuery]=useState("");
